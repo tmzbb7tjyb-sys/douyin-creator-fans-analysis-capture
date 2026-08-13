@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音达人粉丝洞察抓取"
+  short_description: "从抖音指数达人详情页抓取粉丝分析比例与TGI数据"
+  default_prompt: "Use $douyin-creator-fans-analysis-capture to capture fan analysis ratios for a Douyin creator from Creator Center and write them into my workbook."
